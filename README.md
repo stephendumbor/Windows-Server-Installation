@@ -31,12 +31,12 @@ Wait for Installation to Complete: <br/>
 <img src="https://imgur.com/wuFnV3t" height="80%" width="80%" alt="Install in progress"/>
 <br />
 <br />
-Loading Windows Server: <br/>
-<img src="https://imgur.com/GAwCAO9" height="80%" width="80%" alt="Loading"/>
-<br />
-<br />
 Create Admin Password: <br/>
 <img src="https://imgur.com/hC4BR4U" height="80%" width="80%" alt="Set password"/>
+<br />
+<br />
+Loading Windows Server: <br/>
+<img src="https://imgur.com/GAwCAO9" height="80%" width="80%" alt="Loading"/>
 <br />
 <br />
 Windows Server Ready: <br/>
