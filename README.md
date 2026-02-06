@@ -1,7 +1,6 @@
 <div align="center">
   
 # WINDOWS SERVER INSTALLATION
-
 </div>
 
 <p align="center">
@@ -55,3 +54,12 @@ Login with password created: <br/>
 <br />
 Wallaar Explore Server: <br/>
 <img src="https://imgur.com/R6DRtlW" height="80%" width="80%" alt="Server kick-in"/>
+<br />
+<br />
+  
+---
+  
+<div align="center">
+
+© 2026 Stephen Dumbor. All rights reserved.
+</div>
