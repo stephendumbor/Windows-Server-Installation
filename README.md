@@ -47,3 +47,5 @@ Login with password created: <br/>
 <img src="https://imgur.com/vwduZht" height="80%" width="80%" alt="Login"/>
 <br />
 <br />
+Wallaar Explore Server: <br/>
+<img src="https://imgur.com/R6DRtlW" height="80%" width="80%" alt="Server kick-in"/>
