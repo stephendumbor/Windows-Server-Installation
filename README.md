@@ -1,4 +1,8 @@
-#  WINDOWS SERVER INSTALLATION
+<div align="center">
+  
+# WINDOWS SERVER INSTALLATION
+
+</div>
 
 <p align="center">
 Select your preffered Language: <br/>
